@@ -1,4 +1,4 @@
-import login from './login.js';
+const login = require('./login');
 
 export default {
     login,
