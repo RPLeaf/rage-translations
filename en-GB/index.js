@@ -1,5 +1,5 @@
 const login = require('./login');
 
-export default {
+module.exports = {
     login,
 }
