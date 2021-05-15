@@ -1,3 +1,4 @@
 module.exports = {
-    title: 'Se connecter'
+    title: 'SE CONNECTER',
+    username: 'Nom d\'utilisateur'
 }
